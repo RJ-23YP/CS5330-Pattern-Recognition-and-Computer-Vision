@@ -18,6 +18,6 @@ https://drive.google.com/file/d/1ihQoTMNheRd2vUc3zXfu2uD5yHZ1jsVj/view?usp=shari
 
 Operating System  - Ubuntu 20.04
 
-Here we used linux termina to run and comile the code.
+Here we used linux terminal to run and compile the code.
 
 

@@ -14,4 +14,4 @@ Broadly, these are the activities covered in this course:
 
 Programming Languages: C++, Python
 
-Libraries: OpenCV
+Libraries: OpenCV, PyTorch, Scikit-learn, Pandas

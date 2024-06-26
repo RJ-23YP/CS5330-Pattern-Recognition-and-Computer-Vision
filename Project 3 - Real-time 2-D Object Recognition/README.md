@@ -34,9 +34,9 @@ The first command compiles the *main_recognition.cpp*, *segmentation.cpp*, and *
 To execute the training system code the user has to type in the following commands in the linux Terminal to generate and run an executable:
 
 ```bash
-$ g++ -std=c++17 -o training training_system.cpp `pkg-config --cflags --libs opencv4`
+g++ -std=c++17 -o training training_system.cpp `pkg-config --cflags --libs opencv4`
 
-$ ./training
+./training
 ```
 
 **Note:** The user also needs to update the path of the csv database file and the training set folder in the code as per their system. 
